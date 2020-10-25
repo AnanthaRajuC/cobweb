@@ -1,2 +1,0 @@
-# cobweb
-cobweb.me
