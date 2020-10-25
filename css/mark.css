@@ -1,6 +1,6 @@
 mark {
-  display: inline-block;
-  line-height: 1em;
-  padding-bottom: 0.1em;
-  background-color: powderblue;
+  background: url(../images/yellow-brushstroke.png);
+  background-repeat: no-repeat;
+  background-size: 100% 95%;
+  padding: 5px 39px;
 }
